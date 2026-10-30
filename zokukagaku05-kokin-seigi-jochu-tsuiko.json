@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kokin-seigi-jochu-tsuiko",
  "yomi": "こきんしゅうせいぎじょちゅうついこう",
  "category": "注釈",
- "description": null,
+ "description": {
+  "kind": "注釈書（古今集）",
+  "era": "江戸後期",
+  "author": "熊谷直好（1782〜1862）",
+  "desc": "香川景樹の『古今和歌集正義』の序の注について、門人の熊谷直好が考えを書き加えたもの。冒頭で、16歳で景樹に入門したいきさつを述べる。"
+ },
  "editions": [
   {
    "pid": "993383",
